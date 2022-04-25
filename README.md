@@ -1,9 +1,7 @@
-# Getting Started with Create React App
+# React Calculator
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo Video
+## Demo Image
 
-<video width="320" height="240" controls>
-  <source src="videos/demo-calc.mp4" type="video/mp4">
-</video>
+<img src="calc-img.png" alt="drawing" width="400"/>
